@@ -1,6 +1,6 @@
 ---
 title: Flock Locations - Flock Safety ALPR Camera Map
-homepage: https://flocklocations.com
+homepage: https://flocklocations.com/press
 category: GIS
 description: Community-built map and open database of Flock Safety ALPR (automated license plate reader) camera locations across the United States. Around 136,000 reported locations, each labeled by confirmation status (Community Confirmed, 3rd Party, or Unconfirmed), with state and city directories, a public API, and open CSV and GeoJSON exports.
 version:
